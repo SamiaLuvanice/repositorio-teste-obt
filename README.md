@@ -6,6 +6,6 @@ Este foi o meu primeiro repositório remoto criado para trabalhar com o GitHub.
 
 - Git
 - GitHub
-- SSHH
+- SSH
 
-Confira meu perfil em [SamiaLuvanice] (https://github.com/SamiaLuvanice)
+Confira meu perfil em [SamiaLuvanice] (https://github.com/SamiaLuvanice)get remote
